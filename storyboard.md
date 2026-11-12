@@ -18,7 +18,7 @@ AI assistants such as ChatGPT, Claude, and Gemini have all quickly become everyd
 
 
 
-##### Section 1: The Psychological Drive for AI Dependence in Students
+### Section 1: The Psychological Drive for AI Dependence in Students
 
 
 
@@ -38,7 +38,7 @@ Key Terms: Cognitive trust, psychological need, digital vulnerability, platform 
 
 
 
-##### Section 2: The impact on Critical Thinking and Innovative Problem Solving
+### Section 2: The impact on Critical Thinking and Innovative Problem Solving
 
 
 
@@ -57,7 +57,7 @@ Key Terms: Learning enhancement versus dependency, innovative thinking, knowledg
 
 
 
-##### Section 3: Behavioral Patterns and Decision-Making in Collaboration between Humans and AI
+### Section 3: Behavioral Patterns and Decision-Making in Collaboration between Humans and AI
 
 
 
@@ -76,7 +76,7 @@ Key Terms: Decision-making patterns, perceived fairness, bias, humans and AI
 
 
 
-##### Section 4: Preserving Human Knowledge in Future Educational Frameworks
+### Section 4: Preserving Human Knowledge in Future Educational Frameworks
 
 
 
