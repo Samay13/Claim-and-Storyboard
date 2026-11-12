@@ -18,7 +18,7 @@ AI assistants such as ChatGPT, Claude, and Gemini have all quickly become everyd
 
 
 
-### Section 1: The Psychological Drive for AI Dependence in Students
+## Section 1: The Psychological Drive for AI Dependence in Students
 
 
 
